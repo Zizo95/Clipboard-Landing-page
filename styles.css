@@ -1,0 +1,41 @@
+body{
+    font-size: 18px;
+
+}
+.mac{
+    background-color: hsl(233, 100%, 69%);
+    color: white;
+    border-radius: 50px;
+    border: none;
+    padding: 10px;
+}
+.ios{
+    background-color: hsl(171, 66%, 44%);
+    color: white;
+    border-radius: 50px;
+    border: none;
+    padding: 10px; 
+}
+.monitor{
+margin-left: 60px;
+margin-bottom: 20px;
+}
+.section1{
+    float: right;
+}
+.logo{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.icon{
+    margin-bottom: 15px;
+}
+footer{
+background-color:hsl(201, 11%, 66%) ;
+margin-top: 70px;
+padding-top: 20px ;
+display: flex;
+justify-content: space-between;
+}

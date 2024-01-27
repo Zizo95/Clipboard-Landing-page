@@ -1,6 +1,6 @@
 body{
     font-size: 18px;
-
+    
 }
 .mac{
     background-color: hsl(233, 100%, 69%);
@@ -38,4 +38,7 @@ margin-top: 70px;
 padding-top: 20px ;
 display: flex;
 justify-content: space-between;
+}
+.first-section{
+   text-align: center;
 }

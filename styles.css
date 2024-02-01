@@ -99,6 +99,22 @@ left: 600px;
 }
 @media only screen and (max-width: 600px) {
     .main {
+        margin: 1px;
         
 }
+button{
+    margin: 10px;
+}
+footer{
+   
+   
+}
+.logo{
+    flex-direction: column;
+   
+    }
+
+  .main {
+    gap: 3rem;
+  }
 }

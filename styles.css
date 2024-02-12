@@ -4,6 +4,7 @@ body{
 	flex-direction: column;
 	align-items: center;
     margin: 0;
+    
 }
 .mac{
     background-color: hsl(233, 100%, 69%);
